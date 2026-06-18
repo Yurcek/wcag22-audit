@@ -17,6 +17,16 @@ wcag22-audit/
 
 ## Installation
 
+### Quick install
+
+If you use the [skills CLI](https://github.com/vercel-labs/skills):
+
+```bash
+npx skills add Yurcek/wcag22-audit
+```
+
+### Manual install
+
 Get the files first — either clone the repo, or download the ZIP from GitHub (**Code → Download ZIP**).
 
 ```bash
