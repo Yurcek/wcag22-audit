@@ -1,6 +1,7 @@
 ---
 name: wcag22-audit
 description: Audit and fix web application accessibility against WCAG 2.2 (level A/AA, with AAA recommendations), with deep Angular-specific coverage. Use this skill whenever the user mentions accessibility, accessibilità, a11y, WCAG, screen readers, keyboard navigation, color contrast, ARIA, axe-core, pa11y, or asks to audit/verify/fix accessibility of components, pages, forms, dialogs or an entire app — even if they don't say "WCAG" explicitly. Also use it when reviewing or generating Angular templates/components where accessibility correctness matters (custom controls, dialogs, forms, routing focus management).
+license: MIT
 ---
 
 # WCAG 2.2 Audit & Remediation (Angular-focused)
